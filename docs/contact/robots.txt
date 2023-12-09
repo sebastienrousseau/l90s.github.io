@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://l90s.com/contact/index.html/sitemap.xml
