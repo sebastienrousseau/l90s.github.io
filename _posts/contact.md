@@ -32,7 +32,7 @@ logo_height: "44"
 logo_width: "44"
 logo: "https://kura.pro/l90s/images/logos/l90s.webp"
 menu: "active"
-measurementID: "G-BJ9GKKGGE7"
+measurementID: "G-N0ZEEB8BNW"
 name: "Contact L90S"
 permalink: "https://l90s.com/contact/index.html"
 rating: "general"
@@ -57,11 +57,11 @@ item_link: https://l90s.com/contact/rss.xml
 item_pub_date: "2023-12-10T21:00:00+00:00"
 item_title: "L90S Contact: Elevate Your Financial Future"
 last_build_date: "2023-12-10T21:00:00+00:00"
-managing_editor: "contact@l90s.com"
+managing_editor: "laurent@l90s.com"
 pub_date: "2023-12-10T21:00:00+00:00"
 ttl: "60"
 type: "website"
-webmaster: "contact@l90s.com"
+webmaster: "laurent@l90s.com"
 
 # Apple - The Apple front matter (YAML).
 
