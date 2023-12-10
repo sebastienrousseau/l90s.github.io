@@ -13,11 +13,11 @@ charset: "utf-8"
 cname: "l90s.com"
 copyright: "© 2023 L90S. All rights reserved."
 date: "Dec 10, 2023"
-description: "L90S was established to address the unique financial needs of new entrepreneurs and founders, offering a cost-effective solution."
+description: "L90S addresses the unique financial needs of startups and emerging businesses, providing cost-effective fractional CFO services."
 download_url: ""
 download_title: ""
 format-detection: "telephone=no"
-hero_description: "L90S was established to address the unique financial needs of new entrepreneurs and founders, offering a cost-effective solution."
+hero_description: "L90S addresses the unique financial needs of startups and emerging businesses, providing cost-effective fractional CFO services."
 hreflang: "en"
 icon: "https://kura.pro/l90s/images/favicon.ico"
 id: "https://l90s.com/index.html"
@@ -46,7 +46,7 @@ main_title: "Welcome to L90S"
 subtitle: "Fractional CFO Services"
 tags: "l90s, rust, post-quantum cryptography, pqc, secure communication, cryptography, performance, embedded devices, webassembly, wasm"
 theme_color: "rgb(40, 151, 255)"
-title: "L90S: Elevate Your Financial Strategy with Fractional CFO Expertise"
+title: "L90S: Unlock Financial Growth with Fractional CFOs"
 url: "https://l90s.com/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
@@ -56,7 +56,7 @@ atom_link: "https://l90s.com/rss.xml"
 category: "Cryptography, Security, Post-quantum cryptography, Rust, Programming Languages, Libraries, Embedded Devices, WebAssembly, Performance, Open Source"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
 generator: "Shokunin 🦀 (version 0.0.20)"
-item_description: "L90S was established to address the unique financial needs of new entrepreneurs and founders, offering a cost-effective solution."
+item_description: "L90S addresses the unique financial needs of startups and emerging businesses, providing cost-effective fractional CFO services."
 item_guid: "https://l90s.com/rss.xml"
 item_link: "https://l90s.com/rss.xml"
 item_pub_date: "2023-12-10T21:00:00+00:00"
@@ -75,7 +75,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "L90S: Elevate Your Financial Strategy with Fractional CFO Expertise"
+apple-mobile-web-app-title: "L90S: Unlock Financial Growth with Fractional CFOs"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -89,11 +89,11 @@ msapplication_tile_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 
 twitter_card: "summary"
 twitter_creator: "@wwdseb"
-twitter_description: "L90S was established to address the unique financial needs of new entrepreneurs and founders, offering a cost-effective solution."
+twitter_description: "L90S addresses the unique financial needs of startups and emerging businesses, providing cost-effective fractional CFO services."
 twitter_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 twitter_image_alt: "Logo of L90S, your trusted partner for strategic financial guidance and growth acceleration"
 twitter_site: "@wwdseb"
-twitter_title: "L90S: Elevate Your Financial Strategy with Fractional CFO Expertise"
+twitter_title: "L90S: Unlock Financial Growth with Fractional CFOs"
 twitter_url: "https://l90s.com/"
 
 # Humans.txt - The Humans.txt front matter (YAML).
@@ -111,3 +111,12 @@ site_software: "Shokunin, Rust"
 
 Many businesses have been constrained by the prohibitive cost of employing a full-time Chief Financial Officer (CFO). L90S provides fractional CFO services, acting as your part-time CFO to guide you in developing and implementing growth strategies while simultaneously helping you to optimise financial performance and reduce expenses.
 
+## Personalized CFO Solutions for Your Unique Needs
+
+L90S understands that every business is unique, with its own set of challenges and aspirations. That's why we tailor our fractional CFO services to meet your specific needs and goals. Navigate the complexities of business finance without the burden of a full-time CFO. L90S offers fractional CFO services, providing the strategic guidance and operational support you need to achieve your financial goals.
+
+## Partner with us today and unleash your company's growth potential.
+
+[Contact us today][00] to discuss how we can transform your financial story.
+
+[00]: /contact/index.html "Contact L90S"

@@ -108,7 +108,7 @@ site_software: "Shokunin, Rust"
 
 With over two decades of experience in the dynamic tech industry, I have established myself as a trusted finance leader, guiding companies in the entertainment, video game, and enterprise software domains towards sustainable growth. My mission is to empower CEOs to make informed strategic decisions, secure the necessary funding, and optimize financial operations to maximize profitability and drive exponential expansion.
 
-![Banner](https://kura.pro/l90s/images/banners/banner-chart-l90s.webp).class=\"zoom-out w-50 p-3 float-start\"
+![Banner][01].class=\"fade-in w-50 p-3 me-3 img-thumbnail float-start\"
 
 ## A legacy of expertise and proven success
 
@@ -129,3 +129,4 @@ As your trusted advisor, I will leverage my extensive expertise and unwavering c
 [Contact me today][00] and let's discuss how I can help you achieve your ambitious goals.
 
 [00]: /contact/index.html "Contact me today"
+[01]: https://kura.pro/l90s/images/banners/banner-chart-l90s.webp "A proven track record of success"
