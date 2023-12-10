@@ -33,7 +33,7 @@ logo_width: "44"
 logo: "https://kura.pro/l90s/images/logos/l90s.webp"
 menu: "active"
 measurementID: "G-BJ9GKKGGE7"
-name: "Contact"
+name: "Contact L90S"
 permalink: "https://l90s.com/contact/index.html"
 rating: "general"
 referrer: "no-referrer"
@@ -42,20 +42,20 @@ robots: "index, follow"
 short_name: "l90s"
 subtitle: "Complimentary video or phone call available with no obligation to assess your needs"
 theme_color: "rgb(40, 151, 255)"
-title: "L90S Contact: Get in Touch"
+title: "L90S Contact: Elevate Your Financial Future"
 url: "https://l90s.com/contact/index.html"
 viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 
 # RSS - The RSS feed front matter (YAML).
 atom_link: https://l90s.com/contact/rss.xml
-category: "Software, Static Site Generator, Rust"
+category: "Fractional CFO, Business growth, Financial planning and analysis, Financial reporting, Operational efficiency"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
 generator: "Shokunin 🦀 (version 0.0.20)"
 item_description: "Contact us today to learn more about L90S Fractional CFO Services."
 item_guid: https://l90s.com/contact/rss.xml
 item_link: https://l90s.com/contact/rss.xml
 item_pub_date: "2023-12-10T21:00:00+00:00"
-item_title: "L90S Contact: Get in Touch"
+item_title: "L90S Contact: Elevate Your Financial Future"
 last_build_date: "2023-12-10T21:00:00+00:00"
 managing_editor: "contact@l90s.com"
 pub_date: "2023-12-10T21:00:00+00:00"
@@ -70,7 +70,7 @@ apple_touch_icon_sizes: "192x192"
 apple-mobile-web-app-capable: "yes"
 apple-mobile-web-app-status-bar-inset: "black"
 apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "L90S Contact: Get in Touch"
+apple-mobile-web-app-title: "L90S Contact: Elevate Your Financial Future"
 apple-touch-fullscreen: "yes"
 
 # MS Application - The MS Application front matter (YAML).
@@ -88,7 +88,7 @@ twitter_description: "Contact us today to learn more about L90S Fractional CFO S
 twitter_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 twitter_image_alt: "Logo of L90S"
 twitter_site: "@wwdseb"
-twitter_title: "L90S Contact: Get in Touch"
+twitter_title: "L90S Contact: Elevate Your Financial Future"
 twitter_url: "https://l90s.com/"
 
 # Humans.txt - The Humans.txt front matter (YAML).
@@ -104,4 +104,4 @@ site_software: "Shokunin, Rust"
 
 ---
 
-![Banner](https://kura.pro/l90s/images/logos/l90s.webp).class=\"w-25 p-5 end-0 position-absolute\"
+![Banner](https://kura.pro/l90s/images/logos/l90s.webp).class=\"w-25 p-5 g-5 end-0 position-absolute\"

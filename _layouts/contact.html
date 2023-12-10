@@ -72,7 +72,7 @@ content="default-src 'self';
 
     <!-- # Start Styles -->
     <style>
-      @keyframes dropDown{from{transform:translateY(-.618rem)}to{transform:translateY(0)}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}.active,h1,h2,h3,h4,h5,h6,strong{font-weight:400}.article-info{color:var(--theme-color);font-weight:400}.blur-light{backdrop-filter:saturate(180%) blur(20px);background-color:rgba(255,255,255,.618)}.card{overflow:hidden}.drop-down,.fade-in{animation-fill-mode:forwards}.drop-down{animation:dropDown 1.618s ease}.fade-in{animation:fadeIn 3s ease}h1,h2,h3,h4,h5,h6{color:var(--theme-color)}:root{--theme-color:{{theme_color}}}*{font-weight:300}a{color:var(--theme-color);text-decoration:none}a:hover{text-decoration:underline}pre{background:#f9f9f9;border:1px solid #ddd;border-left:3px solid var(--theme-color);color:#666;display:block;font-family:monospace;font-size:15px;line-height:1.618;margin-bottom:1.618em;max-width:100%;overflow:auto;padding:1em 1.618em;page-break-inside:avoid;word-wrap:break-word}.zoom-in{transition:transform .618s cubic-bezier(.618,1,.618,1)}.zoom-in:hover{transform:scale(1.0618)}.zoom-out{transition:transform .618s cubic-bezier(.618,1,.618,1)}.btn-info{background-color:var(--theme-color) !important;border-color:var(--theme-color) !important;}.text-info{color:var(--theme-color) !important}.zoom-out:hover{transform:scale(.618)}
+      @keyframes dropDown{from{transform:translateY(-.618rem)}to{transform:translateY(0)}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}.active,h1,h2,h3,h4,h5,h6,strong{font-weight:400}.article-info{color:var(--theme-color);font-weight:400}.blur-light{backdrop-filter:saturate(180%) blur(20px);background-color:rgba(255,255,255,.618)}.card{overflow:hidden}.drop-down,.fade-in{animation-fill-mode:forwards}.drop-down{animation:dropDown 1.618s ease}.fade-in{animation:fadeIn 3s ease}h1,h2,h3,h4,h5,h6{color:var(--theme-color)}:root{--theme-color:{{theme_color}}}*{font-weight:300}a{color:var(--theme-color);text-decoration:none}a:hover{text-decoration:underline}pre{background:#f9f9f9;border:1px solid #ddd;border-left:3px solid var(--theme-color);color:#666;display:block;font-family:monospace;font-size:15px;line-height:1.618;margin-bottom:1.618em;max-width:100%;overflow:auto;padding:1em 1.618em;page-break-inside:avoid;word-wrap:break-word}.zoom-in{transition:transform .618s cubic-bezier(.618,1,.618,1)}.zoom-in:hover{transform:scale(1.0618)}.zoom-out{transition:transform .618s cubic-bezier(.618,1,.618,1)}.btn-info{background-color:var(--theme-color) !important;border-color:var(--theme-color) !important;}.text-info{color:var(--theme-color) !important}.zoom-out:hover{transform:scale(.618)}.bd-masthead{background-color: rgb(251, 249, 240) !important;}
     </style>
     <!-- # End Styles -->
   </head>
@@ -123,7 +123,7 @@ content="default-src 'self';
                 class="nav-link text-info"
                 href="/about/index.html">About</a>
             </li>
-            <li class="nav-item  {{menu}}">
+            <li class="nav-item {{menu}}">
               <a
                 class="nav-link {{menu}}"
                 aria-current="page"
@@ -163,14 +163,14 @@ content="default-src 'self';
     <!-- # End Header-->
 
     <!-- Main content-->
-    <main id="main" class="bd-masthead container fs-5 p-5" aria-label="main">
+    <main id="main" class="bd-masthead fs-5 p-5" aria-label="main">
       <div
-        class="align-items-md-stretch text-start justify-content-between row g-5 py-5"
+        class="align-items-md-stretch text-start justify-content-between row g-5"
       >
       <form action="https://formspree.io/f/{{form-id}}" method="POST" class="bg-transparent form-control border-0">
           <div class="row g-3">
             <div class="row">{{content}}</div>
-            <div class="col-10">
+            <div class="col-9">
               <label for="sender" class="form-label">Name</label>
               <input
                 type="text"
@@ -183,7 +183,7 @@ content="default-src 'self';
               />
               <div class="invalid-feedback">A valid name is required.</div>
             </div>
-            <div class="col-10">
+            <div class="col-9">
               <label for="email" class="form-label">Email</label>
               <input
                 autocomplete="email"
@@ -198,7 +198,7 @@ content="default-src 'self';
                 A valid email address is required.
               </div>
             </div>
-            <div class="col-10">
+            <div class="col-9">
               <label for="subject" class="form-label">Subject</label><br />
               <select
                 name="subject"
@@ -216,7 +216,7 @@ content="default-src 'self';
                 <option value="support">Product Support</option>
               </select>
             </div>
-            <div class="col-10">
+            <div class="col-9">
               <label for="message" class="form-label">Message</label>
               <textarea
                 cols="47"
@@ -230,11 +230,11 @@ content="default-src 'self';
               ></textarea>
               <div class="invalid-feedback">Please enter your message.</div>
             </div>
-            <div class="col-10">
+            <div class="col-9">
               <button
                 title="Send Message"
                 type="submit"
-                class="btn btn-lg btn-info text-white"
+                class="btn btn-lg btn-info text-white float-end"
               >
                 Send Message
               </button>

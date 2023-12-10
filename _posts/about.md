@@ -50,7 +50,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 # RSS - The RSS feed front matter (YAML).
 
 atom_link: "https://l90s.com/about/rss.xml"
-category: "Software, Static Site Generator, Rust"
+category: "Fractional CFO, Business growth, Financial planning and analysis, Financial reporting, Operational efficiency"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
 generator: "Shokunin 🦀 (version 0.0.20)"
 item_description: "A trusted finance leader with 20+ years of experience in the tech industry, guiding companies to sustainable growth, funding, and optimized financial operations."

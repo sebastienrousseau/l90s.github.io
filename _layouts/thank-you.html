@@ -75,7 +75,7 @@
 
     <!-- # Start Styles -->
     <style>
-      @keyframes dropDown{from{transform:translateY(-.618rem)}to{transform:translateY(0)}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}.active,h1,h2,h3,h4,h5,h6,strong{font-weight:400}.article-info{color:var(--theme-color);font-weight:400}.blur-light{backdrop-filter:saturate(180%) blur(20px);background-color:rgba(255,255,255,.618)}.card{overflow:hidden}.drop-down,.fade-in{animation-fill-mode:forwards}.drop-down{animation:dropDown 1.618s ease}.fade-in{animation:fadeIn 3s ease}h1,h2,h3,h4,h5,h6{color:var(--theme-color)}:root{--theme-color:{{theme_color}}}*{font-weight:300}a{color:var(--theme-color);text-decoration:none}a:hover{text-decoration:underline}pre{background:#f9f9f9;border:1px solid #ddd;border-left:3px solid var(--theme-color);color:#666;display:block;font-family:monospace;font-size:15px;line-height:1.618;margin-bottom:1.618em;max-width:100%;overflow:auto;padding:1em 1.618em;page-break-inside:avoid;word-wrap:break-word}.zoom-in{transition:transform .618s cubic-bezier(.618,1,.618,1)}.zoom-in:hover{transform:scale(1.0618)}.zoom-out{transition:transform .618s cubic-bezier(.618,1,.618,1)}.zoom-out:hover{transform:scale(.618)}.text-shadow{text-shadow:1px 1px 2px black}body{background-color: black!important; }
+      @keyframes dropDown{from{transform:translateY(-.618rem)}to{transform:translateY(0)}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}.active,h1,h2,h3,h4,h5,h6,strong{font-weight:400}.article-info{color:var(--theme-color);font-weight:400}.blur-light{backdrop-filter:saturate(180%) blur(20px);background-color:rgba(255,255,255,.618)}.card{overflow:hidden}.drop-down,.fade-in{animation-fill-mode:forwards}.drop-down{animation:dropDown 1.618s ease}.fade-in{animation:fadeIn 3s ease}h1,h2,h3,h4,h5,h6{color:var(--theme-color)}:root{--theme-color:{{theme_color}}}*{font-weight:300}a{color:var(--theme-color);text-decoration:none}a:hover{text-decoration:underline}pre{background:#f9f9f9;border:1px solid #ddd;border-left:3px solid var(--theme-color);color:#666;display:block;font-family:monospace;font-size:15px;line-height:1.618;margin-bottom:1.618em;max-width:100%;overflow:auto;padding:1em 1.618em;page-break-inside:avoid;word-wrap:break-word}.zoom-in{transition:transform .618s cubic-bezier(.618,1,.618,1)}.zoom-in:hover{transform:scale(1.0618)}.zoom-out{transition:transform .618s cubic-bezier(.618,1,.618,1)}.zoom-out:hover{transform:scale(.618)}.text-shadow{text-shadow:1px 1px 2px black}body{background-color: black!important; }.bd-masthead{background-color: rgb(251, 249, 240) !important;}
     </style>
     <!-- # End Styles -->
   </head>
@@ -120,49 +120,20 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav navbar-white ms-auto mb-2 bg-transparent">
-            <li class="nav-link {{menu}}">
+            <li class="nav-item">
               <a
-              class="text-light {{menu}}"
-                aria-current="page"
+                class="nav-link text-info"
                 href="/index.html">Home</a>
             </li>
-            <li class="nav-link middle">
+            <li class="nav-item">
               <a
-                class=""
-                aria-current="page"
-                href="/getting-started/index.html">Getting Started</a>
+              class="nav-link text-info"
+              aria-current="page"
+              href="/about/index.html">About</a>
             </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item">
               <a
-                class="nav-link text-info dropdown-toggle"
-                id="navbarDropdown"
-                href="#"
-                role="button"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-                >Resources</a>
-              <ul
-                class="dropdown-menu dropdown-menu-end border border-info bg-white"
-                aria-labelledby="resourcesDropdown"
-              >
-                <li>
-                  <a class="bg-transparent dropdown-item text-info" href="/contribute/index.html">Contribute</a>
-                </li>
-                <li>
-                  <a class="bg-transparent dropdown-item text-info" href="https://github.com/sebastienrousseau/l90s" target="_blank">GitHub ⧉</a>
-                </li>
-                <li>
-                  <a class="bg-transparent dropdown-item text-info" href="/made-with-shokunin/index.html">Made with Shokunin</a>
-                </li>
-                <li>
-                  <a class="bg-transparent dropdown-item text-info" href="/tags/index.html">Tags</a>
-                </li>
-              </ul>
-            </li>
-            <li class="nav-link">
-              <a
-                class="button btn btn-info rounded-pill text-white"
-                aria-current="page"
+                class="nav-link text-info"
                 href="/contact/index.html">Contact</a>
             </li>
           </ul>
