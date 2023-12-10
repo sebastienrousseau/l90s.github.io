@@ -82,19 +82,19 @@ msapplication-navbutton-color: "rgb(40, 151, 255)"
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
-twitter_creator: "wwdseb"
+twitter_creator: "@L90S_90"
 twitter_description: "I apologise for the inconvenience. To continue, please connect to a Wi-Fi network or enable cellular data"
 twitter_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 twitter_image_alt: "Logo of L90S"
-twitter_site: "wwdseb"
+twitter_site: "@L90S_90"
 twitter_title: "No Internet Connection detected. Please try again later."
 twitter_url: "https://l90s.com/offline/index.html"
 
 # Humans.txt - The Humans.txt front matter (YAML).
 
 author_website: "https://l90s.com/offline/index.html"
-author_twitter: "@wwdseb"
-author_location: "London, UK"
+author_twitter: "@L90S_90"
+author_location: "San Francisco, CA"
 thanks: "Thanks for reading!"
 site_last_updated: "2023-12-10"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"

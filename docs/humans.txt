@@ -1,8 +1,8 @@
 /* TEAM */
 	Name: L90S
-	Website: https://l90s.com/index.html
-	Twitter: @wwdseb
-	Location: London, UK
+	Website: https://l90s.com
+	Twitter: @L90S_90
+	Location: San Francisco, CA
 
 /* THANKS */
 	Thanks: Thanks for reading!

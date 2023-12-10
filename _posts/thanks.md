@@ -80,18 +80,18 @@ msapplication-navbutton-color: "rgb(40, 151, 255)"
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
-twitter_creator: "wwdseb"
+twitter_creator: "@L90S_90"
 twitter_description: "We just received your message and appreciate your interest and query. We are working on your request and will get in touch as soon as possible."
-twitter_image: "https://kura.pro/sebastienrousseau/images/logos/sebastienrousseau.webp"
+twitter_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 twitter_image_alt: "Logo of l90s: A Rust-Powered Shield Against Quantum Threats"
-twitter_site: "wwdseb"
+twitter_site: "@L90S_90"
 twitter_title: "Thank you for contacting Kaishi. We will be in touch shortly."
 twitter_url: "https://l90s.com/thanks/index.html"
 
 # Humans.txt - The Humans.txt front matter (YAML).
 author_website: "https://l90s.com/thanks/index.html"
-author_twitter: "@wwdseb"
-author_location: "London, UK"
+author_twitter: "@L90S_90"
+author_location: "San Francisco, CA"
 thanks: "Thanks for reading!"
 site_last_updated: "2023-12-10"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"

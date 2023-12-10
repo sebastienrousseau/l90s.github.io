@@ -83,19 +83,19 @@ msapplication_tile_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
-twitter_creator: "@wwdseb"
+twitter_creator: "@L90S_90"
 twitter_description: "Contact us today to learn more about L90S Fractional CFO Services."
 twitter_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 twitter_image_alt: "Logo of L90S"
-twitter_site: "@wwdseb"
+twitter_site: "@L90S_90"
 twitter_title: "L90S Contact: Elevate Your Financial Future"
-twitter_url: "https://l90s.com/"
+twitter_url: "https://l90s.com"
 
 # Humans.txt - The Humans.txt front matter (YAML).
 
 author_website: "https://l90s.com/contact/index.html"
-author_twitter: "@wwdseb"
-author_location: "London, UK"
+author_twitter: "@L90S_90"
+author_location: "San Francisco, CA"
 thanks: "Thanks for reading!"
 site_last_updated: "2023-12-10"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"

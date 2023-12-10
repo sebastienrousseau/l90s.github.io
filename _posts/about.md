@@ -85,19 +85,19 @@ msapplication_tile_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 # Twitter Card - The Twitter Card front matter (YAML).
 
 twitter_card: "summary"
-twitter_creator: "@wwdseb"
+twitter_creator: "@L90S_90"
 twitter_description: "A trusted finance leader with 20+ years of experience in the tech industry, guiding companies to sustainable growth, funding, and optimized financial operations."
 twitter_image: "https://kura.pro/l90s/images/logos/l90s.webp"
 twitter_image_alt: "Logo of L90S"
-twitter_site: "@wwdseb"
+twitter_site: "@L90S_90"
 twitter_title: "A seasoned finance expert with a proven track record of success"
 twitter_url: "https://l90s.com/about/index.html"
 
 # Humans.txt - The Humans.txt front matter (YAML).
 
 author_website: "https://l90s.com/about/index.html"
-author_twitter: "@wwdseb"
-author_location: "London, UK"
+author_twitter: "@L90S_90"
+author_location: "San Francisco, CA"
 thanks: "Thanks for reading!"
 site_last_updated: "2023-12-10"
 site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
